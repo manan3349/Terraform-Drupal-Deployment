@@ -155,8 +155,8 @@ Herein we've been using `make` to running all commands with a single tool. Detai
 |  Feature           | Contributor                                   |
 | :------------- | :-------------------------------------------- |
 | Drupal Deployment | [Digam Jain](https://github.com/digamjain), [Akshay Raj](https://github.com/theakshayraj) |
-| Terraform Integration and Testing | [Akshay Raj](https://github.com/theakshayraj) |
-| AMI Generation | [Manan Jain](https://github.com/manan3349), [Aahan Sharma](https://github.com/mkd63), [Akshay Raj](https://github.com/theakshayraj) |
+| Terraform Integration and Testing | [Akshay Raj](https://github.com/theakshayraj), [Manan Jain](https://github.com/manan3349) |
+| AMI Generation | [Manan Jain](https://github.com/manan3349), [Aahan Sharma](https://github.com/mkd63) |
 | Monitoring module integration | [Aahan Sharma](https://github.com/mkd63) |
 | IAM Policies and Roles | [Aahan Sharma](https://github.com/mkd63), [Manan Jain](https://github.com/manan3349) |
 | DB module integration | [Akshay Raj](https://github.com/theakshayraj), [Digam Jain](https://github.com/digamjain) |
